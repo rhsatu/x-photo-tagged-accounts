@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         X Photo Viewer - Show Tagged Accounts
-// @namespace    rhone.x.tagged-accounts
+// @namespace    x-photo-tagged-accounts
 // @version      1.0
 // @description  Shows the accounts tagged in a photo when viewing it full-screen on x.com (they normally only show in the timeline).
 // @match        https://x.com/*
